@@ -19,7 +19,7 @@ const highlights = [
   {
     icon: Rocket,
     title: "Problem Solver",
-    description: "200+ problems solved across competitive programming platforms.",
+    description: "250+ problems solved across competitive programming platforms.",
   },
 ];
 

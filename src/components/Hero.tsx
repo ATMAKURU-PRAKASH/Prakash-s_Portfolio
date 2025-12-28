@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail, ChevronDown, FileText } from "lucide-react";
+import { Github, Linkedin, Mail, ChevronDown } from "lucide-react";
 import profileImage from "@/assets/prakash.png";
 
 const Hero = () => {
@@ -82,12 +82,6 @@ const Hero = () => {
                   alt="Atmakuru Prakash"
                   className="w-full h-full object-cover"
                 />
-              </div>
-              <div className="absolute -bottom-2 -right-2 bg-gradient-primary text-primary-foreground px-4 py-2 rounded-lg font-mono text-sm shadow-lg">
-                <span className="flex items-center gap-2">
-                  <FileText size={16} />
-                  200+ Problems
-                </span>
               </div>
             </div>
           </div>

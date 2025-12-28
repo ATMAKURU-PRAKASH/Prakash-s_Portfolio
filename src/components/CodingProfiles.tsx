@@ -38,7 +38,7 @@ const CodingProfiles = () => {
           <div className="bg-gradient-card p-8 rounded-2xl border border-border mb-12 text-center animate-slide-up">
             <div className="flex items-center justify-center gap-3 mb-4">
               <Trophy className="text-primary" size={32} />
-              <span className="text-4xl font-bold text-gradient">200+</span>
+              <span className="text-4xl font-bold text-gradient">250+</span>
             </div>
             <p className="text-xl text-foreground mb-2">Problems Solved</p>
             <p className="text-muted-foreground">

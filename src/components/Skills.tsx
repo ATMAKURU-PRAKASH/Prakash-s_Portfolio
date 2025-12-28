@@ -1,7 +1,7 @@
 const skillCategories = [
   {
     title: "Languages",
-    skills: ["Java", "C", "C++", "JavaScript", "TypeScript", "HTML", "CSS"],
+    skills: ["Java", "C", "C++","Python", "JavaScript",  "HTML", "CSS"],
   },
   {
     title: "Frameworks & Libraries",
@@ -9,7 +9,7 @@ const skillCategories = [
   },
   {
     title: "Databases",
-    skills: ["PostgreSQL", "MySQL", "MongoDB", "SQL"],
+    skills: ["MySQL","PostgreSQL",  "MongoDB", "SQL"],
   },
   {
     title: "Tools & Platforms",
@@ -17,7 +17,7 @@ const skillCategories = [
   },
   {
     title: "Core Concepts",
-    skills: ["DSA", "OOPs", "REST APIs", "Cyber Security", "Blockchain"],
+    skills: ["DSA", "OOPs", "REST APIs", "Cyber Security", ],
   },
   {
     title: "Soft Skills",

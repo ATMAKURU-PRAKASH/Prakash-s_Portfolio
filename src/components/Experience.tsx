@@ -30,6 +30,7 @@ const certifications = [
   { name: "RedHat Ex183 Certification", issuer: "RedHat" },
   { name: "Salesforce Certified AI Associate", issuer: "Salesforce" },
   { name: "RPA Certification", issuer: "Automation Anywhere" },
+  { name: "Certified System Administrator ", issuer: "Servicenow" },
 ];
 
 const achievements = [

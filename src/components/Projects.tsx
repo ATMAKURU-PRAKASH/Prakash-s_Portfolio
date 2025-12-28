@@ -16,7 +16,7 @@ const projects = [
   }, {
     title: "Online Job Portal",
     description: "A full-featured job portal connecting employers with job seekers, featuring advanced search and application tracking.",
-    techStack: ["Django", "Python", "PostgreSQL", "REST API", "HTML/CSS"],
+    techStack: ["Django", "Python", "MySql","PgAdmin", "REST API", "HTML/CSS"],
     highlights: [
       "Designed and maintained robust server-side systems for job postings",
       "Implemented user authentication and profile management features",
